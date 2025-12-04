@@ -1,0 +1,9 @@
+{
+  "name": "Pakistan World Guide AI",
+  "description": "An advanced AI guide for Pakistan providing detailed location info, image identification, and local insights in Urdu/English.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ]
+}
